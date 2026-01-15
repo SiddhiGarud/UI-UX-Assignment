@@ -24,3 +24,8 @@
 ## Assignment 8 – Intro to Figma - Figma Link
 <https://www.figma.com/design/RZVmkNvnQXmNBQ3QYM5p0E/Untitled?node-id=53-2&t=xb1xMinvM20qWKjj-1>
 
+## Assignment 9 – High Fidelity Design - Figma Link
+<https://www.figma.com/design/RZVmkNvnQXmNBQ3QYM5p0E/Assignments?node-id=171-28&t=gq4ekDLJR5N2U1DM-1>
+
+
+
